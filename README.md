@@ -1,4 +1,4 @@
-# impacto-da-pandemia-no-brasileirao
+# Impacto da Pandemia no Brasileirão
 
 Nesta análise, explorei o impacto da pandemia de COVID-19 no cenário esportivo do futebol brasileiro. Com o intuito de estudo e aperfeiçoamento, utilizei a linguagem Python e as bibliotecas PySpark, Pandas, NumPy, Matplotlib e Seaborn para examinar como a ausência de torcedores nos estádios afetou o desempenho das equipes mandantes e visitantes.
 
